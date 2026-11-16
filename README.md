@@ -23,7 +23,7 @@ Pipeline:
 ## 📂 Repository Structure
 
 ```
-universal-bank-data-mining/
+personal-loan-prediction/
 │
 ├── notebook.ipynb          # Full analysis, executed (all figures and numbers are reproducible)
 ├── UniversalBank.csv       # Dataset (5,000 customers)
